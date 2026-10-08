@@ -1,0 +1,23 @@
+{
+  "name": "jashdev-mods",
+  "description": "Small Claude Code mods by JashDev",
+  "owner": {
+    "name": "JashDev",
+    "url": "https://github.com/JashDev"
+  },
+  "plugins": [
+    {
+      "name": "session-path",
+      "description": "A row above the prompt with the session folder, the git branch (switch it or copy it) and how far behind main you are",
+      "source": "./plugins/session-path",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "git",
+        "branch",
+        "status",
+        "mod"
+      ]
+    }
+  ]
+}

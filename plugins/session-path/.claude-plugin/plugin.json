@@ -1,0 +1,19 @@
+{
+  "name": "session-path",
+  "version": "1.0.0",
+  "description": "A row above the prompt with the session folder, the git branch (switch it or copy it) and how far behind main you are",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "JashDev",
+    "url": "https://github.com/JashDev"
+  },
+  "homepage": "https://github.com/JashDev/claude-mods",
+  "repository": "https://github.com/JashDev/claude-mods",
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "branch",
+    "status",
+    "mod"
+  ]
+}
